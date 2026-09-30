@@ -4,7 +4,7 @@
 
 📍 Pune, Maharashtra, India
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -15,7 +15,7 @@
 - 🚀 Strong interest in turning real-world problems into scalable technical solutions
 - 🌱 Continuously learning and improving my skills in **AI/ML, Data & Software Engineering**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -42,11 +42,11 @@
 `Git` `GitHub` `Docker` `AWS` `Databricks`  
 `Tableau` `Power BI` `Postman`
 
----
 
 
 
--
+
+
 
 ## 🤝 Let's Connect
 
