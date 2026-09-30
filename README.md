@@ -50,10 +50,10 @@
 
 ## 🤝 Let's Connect
 
-**LinkedIn:** `YOUR_LINKEDIN_URL`  
-**GitHub:** `YOUR_GITHUB_URL`  
-**Email:** `YOUR_EMAIL`
+💼 **LinkedIn:** [Dnyaneshwar Khune](https://www.linkedin.com/in/Dnyaneshwar-K18)
+
+📧 **Email:** [dnyaneshwarkhune723@gmail.com](mailto:dnyaneshwarkhune723@gmail.com)
 
 ---
 
-⭐ *Always learning, building, and solving problems with data and technology.*
+⭐ *Always learning, building, and solving problems with data, AI, and technology.*
